@@ -1,0 +1,35 @@
+{
+  "name": "YOUR_PACKAGE_NAME",
+  "version": "1.0.0",
+  "description": "YOUR_PACKAGE_DESCRIPTION",
+  "main": "index.js",
+  "bin": {
+    "YOUR_CLI_COMMAND": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "tool",
+    "utility",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "YOUR_NAME",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^9.2.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/YOUR_PACKAGE_NAME.git"
+  }
+}
