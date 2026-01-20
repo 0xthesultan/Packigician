@@ -8,7 +8,7 @@ const { execSync } = require('child_process');
 const program = new Command();
 
 program
-  .name('packagician-create')
+  .name('packigician')
   .description('CLI tool to generate npm package templates')
   .version('1.0.0');
 
