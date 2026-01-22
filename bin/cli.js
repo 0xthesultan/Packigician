@@ -10,7 +10,7 @@ const program = new Command();
 program
   .name('packigician')
   .description('CLI tool to generate npm package templates')
-  .version('1.0.0');
+  .version('1.1.3');
 
 program
   .command('create [packageName]')
@@ -144,17 +144,28 @@ MIT`;
       await fs.writeFile(path.join(targetDir, 'README.md'), readmeTemplate);
 
       // Create .gitignore
-      const gitignoreTemplate = `node_modules/
+      const gitignoreTemplate = `# Dependencies
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+
+# Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Environment variables
 .env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Build outputs
 dist/
 build/
+
+# Package files
 *.tgz`;
 
       await fs.writeFile(path.join(targetDir, '.gitignore'), gitignoreTemplate);
