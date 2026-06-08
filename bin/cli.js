@@ -4,13 +4,14 @@ const { Command } = require('commander');
 const fs = require('fs-extra');
 const path = require('path');
 const { execSync } = require('child_process');
+const packageJson = require('../package.json');
 
 const program = new Command();
 
 program
   .name('packigician')
   .description('CLI tool to generate npm package templates')
-  .version('1.1.4');
+  .version(packageJson.version);
 
 program
   .command('create [packageName]')
